@@ -1,3 +1,6 @@
 [submodule "ass3/src"]
 	path = ass3/src
 	url = git@github.com:Liren4396/comp3411.git
+[submodule "yorick_socket"]
+	path = yorick_socket
+	url = git@github.com:Liren4396/comp3411.git
